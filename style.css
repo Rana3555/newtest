@@ -1,0 +1,38 @@
+.banner-img{
+    background: url('./images/digital-bank.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 4rem 0;
+    position: relative;
+    /* position: center; */
+}
+
+.text-last{
+    color: rgb(243, 201, 13);
+}
+.text{
+    font-size: 20px;
+    font-style: bold;
+}
+
+.mid-image{
+    border-radius:  4rem 0rem;
+}
+.text-red{
+    color: rgb(204, 32, 32);
+}
+.red-bg{
+    background-color: brown;
+}
+.footer-img{
+    border-radius: 5rem 0rem;
+}
+.bg-theme {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0.7rem 2rem;
+    background-color: #9e3845;
+    color: #fff !important;
+    border-radius: 10px;
+}
